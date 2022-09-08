@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      pasifico: ["Pacifico", "cursive"]
+      pasifico: ["Pacifico", "cursive"],
+      raleway: ['Raleway', 'sans-serif']
     }
   },
   plugins: [],
